@@ -1,4 +1,4 @@
-public class Son extends Father {
+public final class Son extends Father {
     private String hobby;
 
     public Son(int age, String name, Job job, HairColor color, String hobby) {
